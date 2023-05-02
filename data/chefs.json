@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "chef_name": "Samantha Lee",
+        "years_of_experience": 12,
+        "num_recipes": 87,
+        "likes": 15234,
+        "chef_picture": "https://example.com/images/chef1.jpg"
+    },
+    {
+        "id": 2,
+        "chef_name": "Gordon Ramsay",
+        "years_of_experience": 25,
+        "num_recipes": 123,
+        "likes": 239875,
+        "chef_picture": "https://example.com/images/chef2.jpg"
+    },
+    {
+        "id": 3,
+        "chef_name": "Ina Garten",
+        "years_of_experience": 30,
+        "num_recipes": 68,
+        "likes": 102345,
+        "chef_picture": "https://example.com/images/chef3.jpg"
+    },
+    {
+        "id": 4,
+        "chef_name": "Mario Batali",
+        "years_of_experience": 20,
+        "num_recipes": 49,
+        "likes": 7321,
+        "chef_picture": "https://example.com/images/chef4.jpg"
+    },
+    {
+        "id": 5,
+        "chef_name": "Jamie Oliver",
+        "years_of_experience": 18,
+        "num_recipes": 95,
+        "likes": 18456,
+        "chef_picture": "https://example.com/images/chef5.jpg"
+    },
+    {
+        "id": 6,
+        "chef_name": "Nigella Lawson",
+        "years_of_experience": 15,
+        "num_recipes": 72,
+        "likes": 4251,
+        "chef_picture": "https://example.com/images/chef6.jpg"
+    }
+]
