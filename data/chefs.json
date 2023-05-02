@@ -2,49 +2,325 @@
     {
         "id": 1,
         "chef_name": "Samantha Lee",
+        "chef_description": "John Smith is a Michelin-starred chef with over 20 years of experience in the culinary industry.",
         "years_of_experience": 12,
         "num_recipes": 87,
         "likes": 15234,
-        "chef_picture": "https://example.com/images/chef1.jpg"
+        "chef_picture": "https://st.depositphotos.com/1246892/2449/i/950/depositphotos_24496199-stock-photo-a-male-chef.jpg",
+        "recipes": [
+            {
+                "recipe_name": "Roasted Chicken",
+                "recipe_img": "https://properfoodie.com/wp-content/uploads/2020/02/square-Roast-Chicken-1-500x500.jpg",
+                "ingredients": [
+                    "1 whole chicken",
+                    "1 tbsp olive oil",
+                    "1 tbsp garlic powder",
+                    "1 tbsp paprika",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_method": "Preheat the oven to 375 degrees F. Season the chicken with olive oil, garlic powder, paprika, salt, and pepper. Roast the chicken for 1 hour or until the internal temperature reaches 165 degrees F.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Beef Wellington",
+                "recipe_img": "https://www.seriouseats.com/thmb/MLaMPV1-y_VRSpSyLuRFnpkuCzc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/the-ultimate-beef-wellington-recipe-step-17_edited-7d3dd38835a34be2bf320848b2d6d292.jpg",
+                "ingredients": [
+                    "1 lb beef tenderloin",
+                    "1 package puff pastry",
+                    "1 cup mushroom duxelles",
+                    "2 slices prosciutto",
+                    "1 egg, beaten"
+                ],
+                "cooking_method": "Preheat the oven to 425 degrees F. Season the beef tenderloin with salt and pepper. Sear the beef in a hot pan until browned on all sides. Brush the puff pastry with egg wash and place the beef tenderloin in the center. Spread the mushroom duxelles on top of the beef and wrap with prosciutto. Bake for 20-25 minutes or until the pastry is golden brown.",
+                "rating": 5,
+                "favorite": true
+            },
+            {
+                "recipe_name": "Lobster Bisque",
+                "recipe_img": "https://selfproclaimedfoodie.com/wp-content/uploads/lobster-bisque-square-2.jpg",
+                "ingredients": [
+                    "2 lobsters",
+                    "4 cups seafood stock",
+                    "1 onion, chopped",
+                    "1 carrot, chopped",
+                    "1 celery stalk, chopped",
+                    "1 cup heavy cream"
+                ],
+                "cooking_method": "Boil the lobsters for 5-7 minutes or until cooked. Remove the meat from the lobsters and set aside. In a separate pot, sauté the onion, carrot, and celery until soft. Add the seafood stock and lobster meat and bring to a simmer. Add the heavy cream and simmer for another 5-10 minutes. Blend the soup until smooth and serve hot.",
+                "rating": 4,
+                "favorite": false
+            }
+        ]
     },
     {
         "id": 2,
         "chef_name": "Gordon Ramsay",
+        "chef_description": "John Smith is a Michelin-starred chef with over 20 years of experience in the culinary industry.",
         "years_of_experience": 25,
         "num_recipes": 123,
         "likes": 239875,
-        "chef_picture": "https://example.com/images/chef2.jpg"
+        "chef_picture": "https://media.istockphoto.com/id/482156932/photo/smiling-female-chef-with-salad-and-cake-on-plates.jpg?s=612x612&w=is&k=20&c=EONVddponMwyVwDSs6sDlHw6OWgmXbqyE5MbSM0tKNk=",
+        "recipes": [
+            {
+                "recipe_name": "Roasted Chicken",
+                "recipe_img": "Roasted Chicken",
+                "ingredients": [
+                    "1 whole chicken",
+                    "1 tbsp olive oil",
+                    "1 tbsp garlic powder",
+                    "1 tbsp paprika",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_method": "Preheat the oven to 375 degrees F. Season the chicken with olive oil, garlic powder, paprika, salt, and pepper. Roast the chicken for 1 hour or until the internal temperature reaches 165 degrees F.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Beef Wellington",
+                "recipe_img": "Beef Wellington",
+                "ingredients": [
+                    "1 lb beef tenderloin",
+                    "1 package puff pastry",
+                    "1 cup mushroom duxelles",
+                    "2 slices prosciutto",
+                    "1 egg, beaten"
+                ],
+                "cooking_method": "Preheat the oven to 425 degrees F. Season the beef tenderloin with salt and pepper. Sear the beef in a hot pan until browned on all sides. Brush the puff pastry with egg wash and place the beef tenderloin in the center. Spread the mushroom duxelles on top of the beef and wrap with prosciutto. Bake for 20-25 minutes or until the pastry is golden brown.",
+                "rating": 5,
+                "favorite": true
+            },
+            {
+                "recipe_name": "Lobster Bisque",
+                "recipe_img": "Lobster Bisque",
+                "ingredients": [
+                    "2 lobsters",
+                    "4 cups seafood stock",
+                    "1 onion, chopped",
+                    "1 carrot, chopped",
+                    "1 celery stalk, chopped",
+                    "1 cup heavy cream"
+                ],
+                "cooking_method": "Boil the lobsters for 5-7 minutes or until cooked. Remove the meat from the lobsters and set aside. In a separate pot, sauté the onion, carrot, and celery until soft. Add the seafood stock and lobster meat and bring to a simmer. Add the heavy cream and simmer for another 5-10 minutes. Blend the soup until smooth and serve hot.",
+                "rating": 4,
+                "favorite": false
+            }
+        ]
     },
     {
         "id": 3,
         "chef_name": "Ina Garten",
+        "chef_description": "John Smith is a Michelin-starred chef with over 20 years of experience in the culinary industry.",
         "years_of_experience": 30,
         "num_recipes": 68,
         "likes": 102345,
-        "chef_picture": "https://example.com/images/chef3.jpg"
+        "chef_picture": "https://thumbs.dreamstime.com/b/female-chef-presenting-food-14985514.jpg",
+        "recipes": [
+            {
+                "recipe_name": "Roasted Chicken",
+                "recipe_img": "Roasted Chicken",
+                "ingredients": [
+                    "1 whole chicken",
+                    "1 tbsp olive oil",
+                    "1 tbsp garlic powder",
+                    "1 tbsp paprika",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_method": "Preheat the oven to 375 degrees F. Season the chicken with olive oil, garlic powder, paprika, salt, and pepper. Roast the chicken for 1 hour or until the internal temperature reaches 165 degrees F.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Beef Wellington",
+                "recipe_img": "Beef Wellington",
+                "ingredients": [
+                    "1 lb beef tenderloin",
+                    "1 package puff pastry",
+                    "1 cup mushroom duxelles",
+                    "2 slices prosciutto",
+                    "1 egg, beaten"
+                ],
+                "cooking_method": "Preheat the oven to 425 degrees F. Season the beef tenderloin with salt and pepper. Sear the beef in a hot pan until browned on all sides. Brush the puff pastry with egg wash and place the beef tenderloin in the center. Spread the mushroom duxelles on top of the beef and wrap with prosciutto. Bake for 20-25 minutes or until the pastry is golden brown.",
+                "rating": 5,
+                "favorite": true
+            },
+            {
+                "recipe_name": "Lobster Bisque",
+                "recipe_img": "Lobster Bisque",
+                "ingredients": [
+                    "2 lobsters",
+                    "4 cups seafood stock",
+                    "1 onion, chopped",
+                    "1 carrot, chopped",
+                    "1 celery stalk, chopped",
+                    "1 cup heavy cream"
+                ],
+                "cooking_method": "Boil the lobsters for 5-7 minutes or until cooked. Remove the meat from the lobsters and set aside. In a separate pot, sauté the onion, carrot, and celery until soft. Add the seafood stock and lobster meat and bring to a simmer. Add the heavy cream and simmer for another 5-10 minutes. Blend the soup until smooth and serve hot.",
+                "rating": 4,
+                "favorite": false
+            }
+        ]
     },
     {
         "id": 4,
         "chef_name": "Mario Batali",
+        "chef_description": "John Smith is a Michelin-starred chef with over 20 years of experience in the culinary industry.", 
         "years_of_experience": 20,
         "num_recipes": 49,
         "likes": 7321,
-        "chef_picture": "https://example.com/images/chef4.jpg"
+        "chef_picture": "https://thumbs.dreamstime.com/z/futur-cooking-chef-amongst-group-background-portrait-student-girl-training-course-51285012.jpg",
+        "recipes": [
+            {
+                "recipe_name": "Roasted Chicken",
+                "recipe_img": "Roasted Chicken",
+                "ingredients": [
+                    "1 whole chicken",
+                    "1 tbsp olive oil",
+                    "1 tbsp garlic powder",
+                    "1 tbsp paprika",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_method": "Preheat the oven to 375 degrees F. Season the chicken with olive oil, garlic powder, paprika, salt, and pepper. Roast the chicken for 1 hour or until the internal temperature reaches 165 degrees F.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Beef Wellington",
+                "recipe_img": "Beef Wellington",
+                "ingredients": [
+                    "1 lb beef tenderloin",
+                    "1 package puff pastry",
+                    "1 cup mushroom duxelles",
+                    "2 slices prosciutto",
+                    "1 egg, beaten"
+                ],
+                "cooking_method": "Preheat the oven to 425 degrees F. Season the beef tenderloin with salt and pepper. Sear the beef in a hot pan until browned on all sides. Brush the puff pastry with egg wash and place the beef tenderloin in the center. Spread the mushroom duxelles on top of the beef and wrap with prosciutto. Bake for 20-25 minutes or until the pastry is golden brown.",
+                "rating": 5,
+                "favorite": true
+            },
+            {
+                "recipe_name": "Lobster Bisque",
+                "recipe_img": "Lobster Bisque",
+                "ingredients": [
+                    "2 lobsters",
+                    "4 cups seafood stock",
+                    "1 onion, chopped",
+                    "1 carrot, chopped",
+                    "1 celery stalk, chopped",
+                    "1 cup heavy cream"
+                ],
+                "cooking_method": "Boil the lobsters for 5-7 minutes or until cooked. Remove the meat from the lobsters and set aside. In a separate pot, sauté the onion, carrot, and celery until soft. Add the seafood stock and lobster meat and bring to a simmer. Add the heavy cream and simmer for another 5-10 minutes. Blend the soup until smooth and serve hot.",
+                "rating": 4,
+                "favorite": false
+            }
+        ]
     },
     {
         "id": 5,
         "chef_name": "Jamie Oliver",
+        "chef_description": "John Smith is a Michelin-starred chef with over 20 years of experience in the culinary industry.",
         "years_of_experience": 18,
         "num_recipes": 95,
         "likes": 18456,
-        "chef_picture": "https://example.com/images/chef5.jpg"
+        "chef_picture": "https://thumbs.dreamstime.com/b/female-chef-12368856.jpg",
+        "recipes": [
+            {
+                "recipe_name": "Roasted Chicken",
+                "recipe_img": "Roasted Chicken",
+                "ingredients": [
+                    "1 whole chicken",
+                    "1 tbsp olive oil",
+                    "1 tbsp garlic powder",
+                    "1 tbsp paprika",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_method": "Preheat the oven to 375 degrees F. Season the chicken with olive oil, garlic powder, paprika, salt, and pepper. Roast the chicken for 1 hour or until the internal temperature reaches 165 degrees F.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Beef Wellington",
+                "recipe_img": "Beef Wellington",
+                "ingredients": [
+                    "1 lb beef tenderloin",
+                    "1 package puff pastry",
+                    "1 cup mushroom duxelles",
+                    "2 slices prosciutto",
+                    "1 egg, beaten"
+                ],
+                "cooking_method": "Preheat the oven to 425 degrees F. Season the beef tenderloin with salt and pepper. Sear the beef in a hot pan until browned on all sides. Brush the puff pastry with egg wash and place the beef tenderloin in the center. Spread the mushroom duxelles on top of the beef and wrap with prosciutto. Bake for 20-25 minutes or until the pastry is golden brown.",
+                "rating": 5,
+                "favorite": true
+            },
+            {
+                "recipe_name": "Lobster Bisque",
+                "recipe_img": "Lobster Bisque",
+                "ingredients": [
+                    "2 lobsters",
+                    "4 cups seafood stock",
+                    "1 onion, chopped",
+                    "1 carrot, chopped",
+                    "1 celery stalk, chopped",
+                    "1 cup heavy cream"
+                ],
+                "cooking_method": "Boil the lobsters for 5-7 minutes or until cooked. Remove the meat from the lobsters and set aside. In a separate pot, sauté the onion, carrot, and celery until soft. Add the seafood stock and lobster meat and bring to a simmer. Add the heavy cream and simmer for another 5-10 minutes. Blend the soup until smooth and serve hot.",
+                "rating": 4,
+                "favorite": false
+            }
+        ]
     },
     {
         "id": 6,
         "chef_name": "Nigella Lawson",
+        "chef_description": "John Smith is a Michelin-starred chef with over 20 years of experience in the culinary industry.",
         "years_of_experience": 15,
         "num_recipes": 72,
         "likes": 4251,
-        "chef_picture": "https://example.com/images/chef6.jpg"
+        "chef_picture": "https://www.kindpng.com/picc/m/2-20401_chef-girl-girl-chef-hd-logo-hd-png.png",
+        "recipes": [
+            {
+                "recipe_name": "Roasted Chicken",
+                "recipe_img": "Roasted Chicken",
+                "ingredients": [
+                    "1 whole chicken",
+                    "1 tbsp olive oil",
+                    "1 tbsp garlic powder",
+                    "1 tbsp paprika",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_method": "Preheat the oven to 375 degrees F. Season the chicken with olive oil, garlic powder, paprika, salt, and pepper. Roast the chicken for 1 hour or until the internal temperature reaches 165 degrees F.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Beef Wellington",
+                "recipe_img": "Beef Wellington",
+                "ingredients": [
+                    "1 lb beef tenderloin",
+                    "1 package puff pastry",
+                    "1 cup mushroom duxelles",
+                    "2 slices prosciutto",
+                    "1 egg, beaten"
+                ],
+                "cooking_method": "Preheat the oven to 425 degrees F. Season the beef tenderloin with salt and pepper. Sear the beef in a hot pan until browned on all sides. Brush the puff pastry with egg wash and place the beef tenderloin in the center. Spread the mushroom duxelles on top of the beef and wrap with prosciutto. Bake for 20-25 minutes or until the pastry is golden brown.",
+                "rating": 5,
+                "favorite": true
+            },
+            {
+                "recipe_name": "Lobster Bisque",
+                "recipe_img": "Lobster Bisque",
+                "ingredients": [
+                    "2 lobsters",
+                    "4 cups seafood stock",
+                    "1 onion, chopped",
+                    "1 carrot, chopped",
+                    "1 celery stalk, chopped",
+                    "1 cup heavy cream"
+                ],
+                "cooking_method": "Boil the lobsters for 5-7 minutes or until cooked. Remove the meat from the lobsters and set aside. In a separate pot, sauté the onion, carrot, and celery until soft. Add the seafood stock and lobster meat and bring to a simmer. Add the heavy cream and simmer for another 5-10 minutes. Blend the soup until smooth and serve hot.",
+                "rating": 4,
+                "favorite": false
+            }
+        ]
     }
 ]
