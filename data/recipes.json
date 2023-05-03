@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Spaghetti Bolognese",
+        "chef_name": "Gordon Ramsay",
+        "likes": 1265,
+        "favourites": 378,
+        "description": "Classic Italian pasta dish with a hearty meat sauce. This recipe is perfect for a cozy dinner at home or for feeding a crowd.",
+        "image": "https://images.pexels.com/photos/6270541/pexels-photo-6270541.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 2,
+        "name": "Roasted Vegetable",
+        "chef_name": "Jamie Oliver",
+        "likes": 890,
+        "favourites": 245,
+        "description": "A colorful and healthy salad made with roasted vegetables, mixed greens, and a zesty lemon vinaigrette. This recipe is a great way to get your daily dose of veggies.",
+        "image": "https://images.pexels.com/photos/7627422/pexels-photo-7627422.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 3,
+        "name": "Beef Stew",
+        "chef_name": "Ina Garten",
+        "likes": 1080,
+        "favourites": 312,
+        "description": "A rich and hearty beef stew made with tender chunks of beef, root vegetables, and a savory broth. This recipe is perfect for a cozy winter meal.",
+        "image": "https://images.pexels.com/photos/4770328/pexels-photo-4770328.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 4,
+        "name": "Lemon Chicken",
+        "chef_name": "Nigella Lawson",
+        "likes": 920,
+        "favourites": 298,
+        "description": "A simple and flavorful chicken dish made with lemon, garlic, and fresh herbs. This recipe is perfect for a quick and easy weeknight dinner.",
+        "image": "https://images.pexels.com/photos/6383082/pexels-photo-6383082.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 5,
+        "name": "Chocolate Cake",
+        "chef_name": "Mary Berry",
+        "likes": 1450,
+        "favourites": 498,
+        "description": "A rich and decadent chocolate cake with a creamy frosting. This recipe is perfect for special occasions or for satisfying your sweet tooth.",
+        "image": "https://images.pexels.com/photos/6382782/pexels-photo-6382782.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 6,
+        "name": "Grilled Salmon",
+        "chef_name": "Bobby Flay",
+        "likes": 780,
+        "favourites": 215,
+        "description": "A simple and healthy way to prepare salmon on the grill. This recipe is perfect for summer barbecues or for a light and refreshing dinner.",
+        "image": "https://images.pexels.com/photos/5665638/pexels-photo-5665638.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+]
