@@ -64,7 +64,7 @@
         "recipes": [
             {
                 "recipe_name": "Roasted Chicken",
-                "recipe_img": "Roasted Chicken",
+                "recipe_img": "https://images.pexels.com/photos/7439731/pexels-photo-7439731.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "1 whole chicken",
                     "1 tbsp olive oil",
@@ -78,7 +78,7 @@
             },
             {
                 "recipe_name": "Beef Wellington",
-                "recipe_img": "Beef Wellington",
+                "recipe_img": "https://images.pexels.com/photos/8696476/pexels-photo-8696476.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "1 lb beef tenderloin",
                     "1 package puff pastry",
@@ -92,7 +92,7 @@
             },
             {
                 "recipe_name": "Lobster Bisque",
-                "recipe_img": "Lobster Bisque",
+                "recipe_img": "https://images.pexels.com/photos/8738012/pexels-photo-8738012.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "2 lobsters",
                     "4 cups seafood stock",
@@ -118,7 +118,7 @@
         "recipes": [
             {
                 "recipe_name": "Roasted Chicken",
-                "recipe_img": "Roasted Chicken",
+                "recipe_img": "https://images.pexels.com/photos/7736774/pexels-photo-7736774.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "1 whole chicken",
                     "1 tbsp olive oil",
@@ -132,7 +132,7 @@
             },
             {
                 "recipe_name": "Beef Wellington",
-                "recipe_img": "Beef Wellington",
+                "recipe_img": "https://images.pexels.com/photos/7627441/pexels-photo-7627441.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "1 lb beef tenderloin",
                     "1 package puff pastry",
@@ -146,7 +146,7 @@
             },
             {
                 "recipe_name": "Lobster Bisque",
-                "recipe_img": "Lobster Bisque",
+                "recipe_img": "https://images.pexels.com/photos/6383081/pexels-photo-6383081.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "2 lobsters",
                     "4 cups seafood stock",
@@ -172,7 +172,7 @@
         "recipes": [
             {
                 "recipe_name": "Roasted Chicken",
-                "recipe_img": "Roasted Chicken",
+                "recipe_img": "https://images.pexels.com/photos/5514818/pexels-photo-5514818.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "1 whole chicken",
                     "1 tbsp olive oil",
@@ -186,7 +186,7 @@
             },
             {
                 "recipe_name": "Beef Wellington",
-                "recipe_img": "Beef Wellington",
+                "recipe_img": "https://images.pexels.com/photos/4586810/pexels-photo-4586810.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "1 lb beef tenderloin",
                     "1 package puff pastry",
@@ -200,7 +200,7 @@
             },
             {
                 "recipe_name": "Lobster Bisque",
-                "recipe_img": "Lobster Bisque",
+                "recipe_img": "https://images.pexels.com/photos/6783155/pexels-photo-6783155.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "2 lobsters",
                     "4 cups seafood stock",
@@ -226,7 +226,7 @@
         "recipes": [
             {
                 "recipe_name": "Roasted Chicken",
-                "recipe_img": "Roasted Chicken",
+                "recipe_img": "https://images.pexels.com/photos/6270651/pexels-photo-6270651.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "1 whole chicken",
                     "1 tbsp olive oil",
@@ -240,7 +240,7 @@
             },
             {
                 "recipe_name": "Beef Wellington",
-                "recipe_img": "Beef Wellington",
+                "recipe_img": "https://images.pexels.com/photos/7627442/pexels-photo-7627442.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "1 lb beef tenderloin",
                     "1 package puff pastry",
@@ -254,7 +254,7 @@
             },
             {
                 "recipe_name": "Lobster Bisque",
-                "recipe_img": "Lobster Bisque",
+                "recipe_img": "https://images.pexels.com/photos/5665638/pexels-photo-5665638.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "2 lobsters",
                     "4 cups seafood stock",
@@ -280,7 +280,7 @@
         "recipes": [
             {
                 "recipe_name": "Roasted Chicken",
-                "recipe_img": "Roasted Chicken",
+                "recipe_img": "https://images.pexels.com/photos/6383072/pexels-photo-6383072.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "1 whole chicken",
                     "1 tbsp olive oil",
@@ -294,7 +294,7 @@
             },
             {
                 "recipe_name": "Beef Wellington",
-                "recipe_img": "Beef Wellington",
+                "recipe_img": "https://images.pexels.com/photos/6383082/pexels-photo-6383082.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "1 lb beef tenderloin",
                     "1 package puff pastry",
@@ -308,7 +308,7 @@
             },
             {
                 "recipe_name": "Lobster Bisque",
-                "recipe_img": "Lobster Bisque",
+                "recipe_img": "https://images.pexels.com/photos/4770328/pexels-photo-4770328.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "2 lobsters",
                     "4 cups seafood stock",
